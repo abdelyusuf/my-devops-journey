@@ -120,7 +120,6 @@ Vagrantfile.local
 
 # Other tools
 .idea/
-.vscode/
 *.sublime-project
 *.sublime-workspace
 .editorconfig
